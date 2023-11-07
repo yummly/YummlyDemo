@@ -7,19 +7,45 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		475BEDBC2AF9D64C005F9DEF /* Store.swift in Sources */ = {isa = PBXBuildFile; fileRef = 475BEDBB2AF9D64C005F9DEF /* Store.swift */; };
+		475BEDBE2AF9D6C0005F9DEF /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 475BEDBD2AF9D6C0005F9DEF /* Models.swift */; };
+		475BEDC12AF9DE00005F9DEF /* Decode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 475BEDC02AF9DE00005F9DEF /* Decode.swift */; };
+		475BEDC42AF9DE60005F9DEF /* yummly_demo_mock_response.json in Resources */ = {isa = PBXBuildFile; fileRef = 475BEDC32AF9DE60005F9DEF /* yummly_demo_mock_response.json */; };
+		475BEDC82AF9E1F9005F9DEF /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 475BEDC72AF9E1F9005F9DEF /* Constants.swift */; };
+		475BEDCA2AF9E5F9005F9DEF /* CollectionDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 475BEDC92AF9E5F9005F9DEF /* CollectionDetailView.swift */; };
+		475BEDCC2AF9FD1B005F9DEF /* RecipeGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 475BEDCB2AF9FD1B005F9DEF /* RecipeGridView.swift */; };
+		476B41332AFA0BE0000E7B6F /* RecipeCardViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 476B41322AFA0BE0000E7B6F /* RecipeCardViewModel.swift */; };
+		476B41352AFA0DA7000E7B6F /* MealPlannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 476B41342AFA0DA7000E7B6F /* MealPlannerView.swift */; };
+		476B41382AFA0E25000E7B6F /* ShoppingListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 476B41372AFA0E25000E7B6F /* ShoppingListView.swift */; };
+		476B413B2AFA0E42000E7B6F /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 476B413A2AFA0E42000E7B6F /* SearchView.swift */; };
 		A255F2472AF9587200033367 /* YummlyDemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A255F2462AF9587200033367 /* YummlyDemoApp.swift */; };
-		A255F2492AF9587200033367 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A255F2482AF9587200033367 /* ContentView.swift */; };
+		A255F2492AF9587200033367 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A255F2482AF9587200033367 /* HomeView.swift */; };
 		A255F24B2AF9587300033367 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A255F24A2AF9587300033367 /* Assets.xcassets */; };
 		A255F24F2AF9587300033367 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A255F24E2AF9587300033367 /* Preview Assets.xcassets */; };
+		A2FE30D22AF97FB200F5B433 /* RecipeCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2FE30D12AF97FB200F5B433 /* RecipeCardView.swift */; };
+		A2FE30D42AF98C7200F5B433 /* CollectionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2FE30D32AF98C7200F5B433 /* CollectionsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		475BEDBB2AF9D64C005F9DEF /* Store.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Store.swift; sourceTree = "<group>"; };
+		475BEDBD2AF9D6C0005F9DEF /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
+		475BEDC02AF9DE00005F9DEF /* Decode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Decode.swift; sourceTree = "<group>"; };
+		475BEDC32AF9DE60005F9DEF /* yummly_demo_mock_response.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = yummly_demo_mock_response.json; sourceTree = "<group>"; };
+		475BEDC72AF9E1F9005F9DEF /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		475BEDC92AF9E5F9005F9DEF /* CollectionDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionDetailView.swift; sourceTree = "<group>"; };
+		475BEDCB2AF9FD1B005F9DEF /* RecipeGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeGridView.swift; sourceTree = "<group>"; };
+		476B41322AFA0BE0000E7B6F /* RecipeCardViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeCardViewModel.swift; sourceTree = "<group>"; };
+		476B41342AFA0DA7000E7B6F /* MealPlannerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealPlannerView.swift; sourceTree = "<group>"; };
+		476B41372AFA0E25000E7B6F /* ShoppingListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoppingListView.swift; sourceTree = "<group>"; };
+		476B413A2AFA0E42000E7B6F /* SearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
 		A255F2432AF9587200033367 /* YummlyDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YummlyDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A255F2462AF9587200033367 /* YummlyDemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YummlyDemoApp.swift; sourceTree = "<group>"; };
-		A255F2482AF9587200033367 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		A255F2482AF9587200033367 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		A255F24A2AF9587300033367 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A255F24C2AF9587300033367 /* YummlyDemo.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = YummlyDemo.entitlements; sourceTree = "<group>"; };
 		A255F24E2AF9587300033367 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A2FE30D12AF97FB200F5B433 /* RecipeCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeCardView.swift; sourceTree = "<group>"; };
+		A2FE30D32AF98C7200F5B433 /* CollectionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -33,6 +59,46 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		475BEDBF2AF9DDF0005F9DEF /* Utility */ = {
+			isa = PBXGroup;
+			children = (
+				475BEDC02AF9DE00005F9DEF /* Decode.swift */,
+			);
+			path = Utility;
+			sourceTree = "<group>";
+		};
+		475BEDC22AF9DE36005F9DEF /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				475BEDC32AF9DE60005F9DEF /* yummly_demo_mock_response.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		476B41362AFA0DAC000E7B6F /* Meal Planner */ = {
+			isa = PBXGroup;
+			children = (
+				476B41342AFA0DA7000E7B6F /* MealPlannerView.swift */,
+			);
+			path = "Meal Planner";
+			sourceTree = "<group>";
+		};
+		476B41392AFA0E35000E7B6F /* Shopping List */ = {
+			isa = PBXGroup;
+			children = (
+				476B41372AFA0E25000E7B6F /* ShoppingListView.swift */,
+			);
+			path = "Shopping List";
+			sourceTree = "<group>";
+		};
+		476B413C2AFA0E49000E7B6F /* Search */ = {
+			isa = PBXGroup;
+			children = (
+				476B413A2AFA0E42000E7B6F /* SearchView.swift */,
+			);
+			path = Search;
+			sourceTree = "<group>";
+		};
 		A255F23A2AF9587200033367 = {
 			isa = PBXGroup;
 			children = (
@@ -52,8 +118,18 @@
 		A255F2452AF9587200033367 /* YummlyDemo */ = {
 			isa = PBXGroup;
 			children = (
+				475BEDC22AF9DE36005F9DEF /* Resources */,
+				475BEDBF2AF9DDF0005F9DEF /* Utility */,
 				A255F2462AF9587200033367 /* YummlyDemoApp.swift */,
-				A255F2482AF9587200033367 /* ContentView.swift */,
+				475BEDBB2AF9D64C005F9DEF /* Store.swift */,
+				475BEDBD2AF9D6C0005F9DEF /* Models.swift */,
+				475BEDC72AF9E1F9005F9DEF /* Constants.swift */,
+				A2FE30D52AF992EF00F5B433 /* Home */,
+				A2FE30D72AF9931200F5B433 /* Collections */,
+				476B41362AFA0DAC000E7B6F /* Meal Planner */,
+				476B41392AFA0E35000E7B6F /* Shopping List */,
+				476B413C2AFA0E49000E7B6F /* Search */,
+				A2FE30D62AF992F400F5B433 /* Views */,
 				A255F24A2AF9587300033367 /* Assets.xcassets */,
 				A255F24C2AF9587300033367 /* YummlyDemo.entitlements */,
 				A255F24D2AF9587300033367 /* Preview Content */,
@@ -67,6 +143,33 @@
 				A255F24E2AF9587300033367 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		A2FE30D52AF992EF00F5B433 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				A255F2482AF9587200033367 /* HomeView.swift */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		A2FE30D62AF992F400F5B433 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				A2FE30D12AF97FB200F5B433 /* RecipeCardView.swift */,
+				475BEDCB2AF9FD1B005F9DEF /* RecipeGridView.swift */,
+				476B41322AFA0BE0000E7B6F /* RecipeCardViewModel.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		A2FE30D72AF9931200F5B433 /* Collections */ = {
+			isa = PBXGroup;
+			children = (
+				A2FE30D32AF98C7200F5B433 /* CollectionsView.swift */,
+				475BEDC92AF9E5F9005F9DEF /* CollectionDetailView.swift */,
+			);
+			path = Collections;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -127,6 +230,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				475BEDC42AF9DE60005F9DEF /* yummly_demo_mock_response.json in Resources */,
 				A255F24F2AF9587300033367 /* Preview Assets.xcassets in Resources */,
 				A255F24B2AF9587300033367 /* Assets.xcassets in Resources */,
 			);
@@ -139,8 +243,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A255F2492AF9587200033367 /* ContentView.swift in Sources */,
+				475BEDBC2AF9D64C005F9DEF /* Store.swift in Sources */,
+				A255F2492AF9587200033367 /* HomeView.swift in Sources */,
+				476B41332AFA0BE0000E7B6F /* RecipeCardViewModel.swift in Sources */,
+				475BEDCC2AF9FD1B005F9DEF /* RecipeGridView.swift in Sources */,
 				A255F2472AF9587200033367 /* YummlyDemoApp.swift in Sources */,
+				475BEDCA2AF9E5F9005F9DEF /* CollectionDetailView.swift in Sources */,
+				475BEDBE2AF9D6C0005F9DEF /* Models.swift in Sources */,
+				475BEDC12AF9DE00005F9DEF /* Decode.swift in Sources */,
+				476B41382AFA0E25000E7B6F /* ShoppingListView.swift in Sources */,
+				A2FE30D42AF98C7200F5B433 /* CollectionsView.swift in Sources */,
+				476B413B2AFA0E42000E7B6F /* SearchView.swift in Sources */,
+				A2FE30D22AF97FB200F5B433 /* RecipeCardView.swift in Sources */,
+				476B41352AFA0DA7000E7B6F /* MealPlannerView.swift in Sources */,
+				475BEDC82AF9E1F9005F9DEF /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,6 +390,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Yummly;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -292,10 +409,11 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.yummly.YummlyDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator xros xrsimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = "1,2,7";
 			};
 			name = Debug;
 		};
@@ -312,6 +430,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Yummly;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -330,10 +449,11 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.yummly.YummlyDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator xros xrsimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = "1,2,7";
 			};
 			name = Release;
 		};

@@ -1,0 +1,116 @@
+{
+  "cookbook": {
+    "sections": [
+        {
+          "id": "for-you",
+          "title": "Recommended for you",
+          "contentType": "recipe",
+          "contentIds": [
+            "Keto-Chicken-Salad-with-Avocado-and-Bacon-2403412",
+            "Crispy-Sesame-Tofu-and-Broccoli-9097949"
+          ]
+        }
+    ]
+  },
+  "collections": [
+    {
+      "id": "all-yums",
+      "name": "All Saved Recipes",
+      "description": "Recipes collected on Yummly",
+      "recipeIds": [
+        "Keto-Chicken-Salad-with-Avocado-and-Bacon-2403412",
+        "Crispy-Sesame-Tofu-and-Broccoli-9097949"
+      ]
+    },
+    {
+      "id": "my-personal-recipes",
+      "name": "My Personal Recipes",
+      "description": "Private recipes you’ve added",
+      "recipeIds": []
+    },
+    {
+      "id": "dinners",
+      "name": "Dinners",
+      "description": "After a food dinner one can forgive anybody, even one's own relations -Oscar Wilde",
+      "recipeIds": [
+        "Keto-Chicken-Salad-with-Avocado-and-Bacon-2403412"
+      ]
+    },
+    {
+      "id": "drinks",
+      "name": "Drinks",
+      "description": "When life gives you lemons, make lemonade -Dake Carnegie",
+      "recipeIds": []
+    },
+    {
+      "id": "desserts",
+      "name": "Desserts",
+      "description": "Life is uncertain. Eat dessert first. -Ernestine Ulmer",
+      "recipeIds": []
+    },
+    {
+      "id": "holiday-recipes",
+      "name": "Holiday Recipes",
+      "description": "Just a couple things I may make for the holidays!",
+      "recipeIds": []
+    }
+  ],
+  "recipes": [
+    {
+      "id": "Keto-Chicken-Salad-with-Avocado-and-Bacon-2403412",
+      "title": "Avocado Cream Pasta with Chicken and Bacon",
+      "author": "Yummly",
+      "imageUrl":  "https://lh3.googleusercontent.com/v4bFQqf8SZQyVKJbG3TvExy2GERxNMYsW9LVVkB5DLFGiRWW9-8vunSy-73-Ro_aOpmNOqCEfKDcP1NxZ7w3_cc",
+      "overview": {
+        "rating": 4.5,
+        "servings": 4,
+        "calories": 900,
+        "time": 1500
+      },
+      "ingredients": [
+        {
+          "id": "12463154-6e69-102c-9a8a-0030485841f8",
+          "name": "1/2 box whole wheat pasta"
+        }
+      ],
+      "directions": [
+        "Bring salted water to a boil to cook your pasta. Once the water is bubbling, toss in your pasta and let it cook to your desired tenderness.",
+        "While the pasta is cooking, combine lemon juice, minced garlic, and olive oil in a bowl or food processor and mix well. Toss in slices of avocado, fresh chopped parsley, and a bit of salt and mix until smooth and creamy.",
+        "Rinse and drain your pasta and set it aside.",
+        "Put a pan over the stove and let the pan heat up to cook your bacon. (You can add a touch of salt to the pan to keep the bacon grease from splattering). Cook your bacon to the desired crispness and set aside on a paper towel. Chop up the bacon into pieces, and reserve a bit of the bacon drippings in the pan for your chicken.",
+        "Season your chicken with paprika, cayenne pepper, salt, and black pepper. Cook your chicken tenders in the pan over medium heat, both sides, for about 2-3 minutes (or more if necessary) on each side. Remove them from the heat and let them cool on a cutting board for a few minutes.",
+        "Combine your pasta and avocado sauce, mixing well. Top with bacon and slices of chicken.",
+        "Garnish with a bit of lemon zest and fresh parsley, if desired."
+      ]
+    },
+    {
+      "id": "Crispy-Sesame-Tofu-and-Broccoli-9097949",
+      "title": "Crispy Sesame Tofu and Broccoli Recipe",
+      "author": "Yummly",
+      "imageUrl":  "https://lh3.googleusercontent.com/8PernMZxm2G4jr_G9nU190C0PXWz0mnkO2hvHQxQ4xta4phEp7qpFbYqdIWTmh4ih12Kw7wULdEOLwnccmNlNbtrnsxdvWy6KBU",
+      "overview": {
+        "rating": 4.5,
+        "servings": 4,
+        "calories": 370,
+        "time": 3300
+      },
+      "ingredients": [
+        {
+          "id": "524ecd9a-28df-41a9-a510-199bd9eaf416",
+          "name": "1/3 cup water (for sauce)"
+        }
+      ],
+      "directions": [
+        "Drain any water from the package of tofu. Wrap the block of tofu in 3-4 layers of paper towels, tucking in the sides so the block is fully wrapped. Set on a work surface, place a heavy-bottomed pan on top of the block, and let sit for at least 30 minutes.",
+        "To make the sauce: Mince the garlic and finely grate the ginger. Whisk together the water and cornstarch in a medium mixing bowl until cornstarch is fully dissolved. Add the tamari, brown sugar, rice vinegar, sesame oil, garlic, ginger, and crushed red pepper (if using). Set sauce aside. Thinly slice the scallions and set aside.",
+        "Unwrap tofu and discard paper towels. Cut the tofu into rectangles approximately 1-inch long, 3/4-inch wide, and 1/2-inch thick. Transfer tofu to a large bowl and sprinkle with the salt, black pepper, and cornstarch. Toss with a spatula to coat.",
+        "Set a large nonstick frying pan over medium-high heat and add the oil. Once oil is shimmering, add half the tofu pieces, using tongs to ensure they lie flat in a single layer on bottom of pan. Sear tofu until bottoms are golden brown and crisp, 3-4 minutes. Flip tofu and sear the opposite sides until golden brown, about 3 minutes.",
+        "Transfer the tofu to a plate. Repeat with more oil and the remaining tofu.",
+        "Reduce heat to medium. Add the broccoli to pan and pour in the water. Cover the pan and simmer broccoli until it is bright green and tender-crisp, 2-3 minutes.",
+        "Transfer broccoli to a plate and discard any residual water from the pan.",
+        "Return frying pan to stove over medium heat. Pour sauce into pan and cook, stirring, until it begins to bubble and thicken, 1-2 minutes. Add broccoli to the sauce and stir to coat, then add the tofu. Continue cooking just until the ingredients are fully heated through, 1-2 minutes.",
+        "Sprinkle the scallions and sesame seeds over tofu and broccoli and serve immediately."
+      ]
+    }
+  ]
+}
